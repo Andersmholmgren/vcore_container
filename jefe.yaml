@@ -1,0 +1,4 @@
+name: "vcore_container_root"
+projects: 
+  vcore: "git@github.com:Andersmholmgren/vcore.git"
+  vcore_generator: "git@github.com:Andersmholmgren/vcore_generator.git"
