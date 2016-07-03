@@ -5,5 +5,5 @@ projects:
   vcore_ecore: "git@github.com:Andersmholmgren/vcore_ecore.git"
   vcore_generator: "git@github.com:Andersmholmgren/vcore_generator.git"
   vcore_m2m: "git@github.com:Andersmholmgren/vcore_m2m.git"
-groups:
-  dogma_jefe: "git@github.com:Andersmholmgren/dogma_jefe.git"
+#groups:
+#  dogma_jefe: "git@github.com:Andersmholmgren/dogma_jefe.git"
